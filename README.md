@@ -1,0 +1,2 @@
+# weather-App
+ Use technologies. •html •css •javacript •EC6 features like let, cost, arow function •EC7 features like async, await •DOM manipulation •javacript fetch API •Bootstrap •coutries state City API •open weather API Weather App features •see temperature •search weather in your city by selecting your countries, state and city •seen date nad day •seen mix and min temperature •change temperature °C into °F
